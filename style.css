@@ -1,3 +1,21 @@
-#navbar{
-    color: green;
+body {
+    font-size: 13.5px;
+    font-family: arial,sans-serif;
+    color: #222;
+}
+
+.navlist-items {
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    margin-top: 3.5px;
+    color:#222
+}
+
+#navlist-item1 {
+    margin-left: -27px;
+}
+
+#navlist-item2 {
+    margin-left: 1px;
 }
